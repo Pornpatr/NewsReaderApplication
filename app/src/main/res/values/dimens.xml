@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="corner_radius">8dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+    <dimen name="common_margin">16dp</dimen>
+    <dimen name="common_margin_innerview">8dp</dimen>
+
+    <!--Progress Bar-->
+    <dimen name="progressbar">32dp</dimen>\
+    <!--Text Size-->
+    <dimen name="sizeTitle">20sp</dimen>
+    <dimen name="sizeSubTitle">16sp</dimen>
+    <!--BottomNavigatino-->
+    <dimen name="bottomNavigationTall">56dp</dimen>
+    <!--Margin-->
+    <dimen name="margin_top">8dp</dimen>
+    <dimen name="margin_btm">8dp</dimen>
+    <dimen name="marginS">8dp</dimen>
+    <dimen name="marginM">16dp</dimen>
+    <!--Padding-->
+    <dimen name="paddingS">8dp</dimen>
+</resources>
